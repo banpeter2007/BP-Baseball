@@ -1,0 +1,8 @@
+C:\Users\BanPeter\Documents\Github_12D\BP-Baseball\BP-Baseball\bin\Debug\BP-Baseball.exe.config
+C:\Users\BanPeter\Documents\Github_12D\BP-Baseball\BP-Baseball\bin\Debug\BP-Baseball.exe
+C:\Users\BanPeter\Documents\Github_12D\BP-Baseball\BP-Baseball\bin\Debug\BP-Baseball.pdb
+C:\Users\BanPeter\Documents\Github_12D\BP-Baseball\BP-Baseball\obj\Debug\BP-Baseball.csproj.AssemblyReference.cache
+C:\Users\BanPeter\Documents\Github_12D\BP-Baseball\BP-Baseball\obj\Debug\BP-Baseball.csproj.CoreCompileInputs.cache
+C:\Users\BanPeter\Documents\Github_12D\BP-Baseball\BP-Baseball\obj\Debug\BP-Baseball.exe
+C:\Users\BanPeter\Documents\Github_12D\BP-Baseball\BP-Baseball\obj\Debug\BP-Baseball.pdb
+C:\Users\BanPeter\Documents\Github_12D\BP-Baseball\BP-Baseball\obj\Debug\BP-Baseball.exe.config
